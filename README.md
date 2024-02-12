@@ -1,1 +1,1 @@
-# homework4-2022
+Using CSS grid and media queries to adjust the layout of the page
